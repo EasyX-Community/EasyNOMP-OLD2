@@ -1,0 +1,7 @@
+{
+    "name": "Einsteinium",
+    "symbol": "EMC2",
+    "algorithm": "scrypt",
+    "peerMagic": "e8f1c4ac",
+    "charityScript": "1cec44c9f9b769ae08ebf9d694c7611a16edf615"
+}
