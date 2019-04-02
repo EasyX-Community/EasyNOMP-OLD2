@@ -22,14 +22,9 @@
 
 -------
 
-### !~ PAYMENT BUG WARNING ~!
-#### THERE IS A KNOWN PAYMENT BUG: <br />
+### !~ PAYMENT BUG NOTICE ~!
 
-https://github.com/bitcoin/bitcoin/issues/14578<br />
-https://github.com/foxer666/node-open-mining-portal/issues/106<br />
-https://github.com/foxer666/node-open-mining-portal/issues/145<br />
-
-The payments issue is resolved, and the respective issues will be closed one by one and removed from this list.
+The payments issue is resolved. You may backup your configuration files, delete the EasyNOMP folder, clone this repository, and replace your configuration files again.
 
 ***Sorry for the inconvenience!***
 
