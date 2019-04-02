@@ -40,7 +40,7 @@ Please note, someone is trying to take over our fork and as a result we had to m
 ### !~ NOTICE: THIS IS NOT A HOSTILE TAKEOVER ~!
 It has been posited to me that EasyNOMP is a hostile takeover of [1301313Y/BootNOMP](https://github.com/1301313Y/BootNOMP) or [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal).
 
-**I want to be perfectly clear, this is not a hostile takeover of either of these two projects.**
+**I want to be perfectly clear,** this is not a hostile takeover of either of these two projects.
 
 While I am open to a takeover with the original developers consent, **_I am not_** open to hostile takeovers of projects which I am friendly with and share source code. We are here (or at least I am) to help make crypto and open source **stronger.**
 
