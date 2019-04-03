@@ -1,6 +1,7 @@
 *~
 *.bak
 .git/
+certs/
 node_modules/
 .idea/
 config.json
