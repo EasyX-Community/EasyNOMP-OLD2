@@ -2,7 +2,7 @@
 ##### Making it easy to install and configure NOMP!
 ##### Current Version: v1.1.4
 
-### THIS IS THE [STABLE COPY](https://github.com/EasyX-Community/EasyNOMP)! FOR DEVELOPMENT COPY PLEASE CLONE [EasyNOMP-dev](https://github.com/EasyX-Community/EasyNOMP-dev)
+### THIS IS THE [STABLE COPY](https://github.com/EasyX-Community/EasyNOMP)! FOR DEVELOPMENT COPY PLEASE CLONE [EasyNOMP-dev](https://github.com/EasyX-Community/EasyNOMP-dev)!
 
 -------
 
