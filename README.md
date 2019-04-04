@@ -4,14 +4,14 @@
 
 -------
 
-### EasyNOMP pool is live @ [http://miningpool.easyx.info/](http://miningpool.easyx.info/)
+### EasyNOMP pool is live @ [https://miningpool.easyx.info/](https://miningpool.easyx.info/)
 #### Support via GitHub Issue Tracker and Discord: https://discord.gg/vzcbVNW (Join &#35;easyx-pool and ask @Shawn)
-#### Visit the EasyX Community website: http://www.easyx.info/
+#### Visit the EasyX Community website: https://www.easyx.info/
 
 -------
 
 ### Helping give NOMP & BootNOMP new life, with some style!
-***LeshaCat:*** _"EasyNOMP is built for the [EasyX Community](http://www.easyx.info/) & [Pool](http://miningpool.easyx.info/). EasyNOMP is based off of BootNOMP. It's focus is to add patches, bug fixes, features, and quality documentation to BootNOMP to make it easy to install. BootNOMP gives NOMP a sleek looking new design, and fully re-designed and re-coded user interface! I saw the original dev working on BootNOMP and the source code and figured I could lend a hand. I have plans to rework the documentation, Block Explorer, Docker source, and some various configuration options. I decided a soft fork with pull requests to the original and parent projects would be best suited. If you would like to contribute, please consider looking at the parent project [1301313Y/BootNOMP](https://github.com/1301313Y/BootNOMP) and original project [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) first, as these two guys are the only ones who are helping get the NOMP rebirthing process started."_
+***LeshaCat:*** _"EasyNOMP is built for the [EasyX Community](https://www.easyx.info/) & [Pool](https://miningpool.easyx.info/). EasyNOMP is based off of BootNOMP. It's focus is to add patches, bug fixes, features, and quality documentation to BootNOMP to make it easy to install. BootNOMP gives NOMP a sleek looking new design, and fully re-designed and re-coded user interface! I saw the original dev working on BootNOMP and the source code and figured I could lend a hand. I have plans to rework the documentation, Block Explorer, Docker source, and some various configuration options. I decided a soft fork with pull requests to the original and parent projects would be best suited. If you would like to contribute, please consider looking at the parent project [1301313Y/BootNOMP](https://github.com/1301313Y/BootNOMP) and original project [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) first, as these two guys are the only ones who are helping get the NOMP rebirthing process started."_
 
 ***1301313Y:*** _"BootNOMP is all the things great about NOMP, now with modern style and design of BootStrap 4! Having disliked the previous UI, due to cramping, little to no info displayed while what is displayed is not very helpful to users. I decided to fork a already great project, and add some stylistic touches it severely needs. I would of considered requesting pulls to the main branch, though with such heavy changes to the project, I decided a hard fork would be well suited. But if you would like to contribute, please consider looking at the original project [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) first, as these guys are the ones who helped get this NOMP rebirthing process started."_
 
